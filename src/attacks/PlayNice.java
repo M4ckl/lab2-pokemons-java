@@ -8,7 +8,7 @@ public class PlayNice extends StatusMove {
     }
     @Override
     protected String describe() {
-        return "Понижает атаку вражеского покемона";
+        return "Lowers the attack of the enemy Pokemon";
     }
     @Override
     protected void applyOppEffects(Pokemon pokemon){

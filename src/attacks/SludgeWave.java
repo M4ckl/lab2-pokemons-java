@@ -8,7 +8,7 @@ public class SludgeWave extends SpecialMove{
     }
     @Override
     protected String describe() {
-        return "Отравляет вражеского покемона";
+        return "Poisons an enemy Pokemon";
     }
 
     @Override

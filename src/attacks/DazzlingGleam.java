@@ -8,7 +8,7 @@ public class DazzlingGleam extends SpecialMove {
     }
     @Override
     protected String describe() {
-        return "Наносит урон";
+        return "Deals damage";
     }
     @Override
     protected void applyOppDamage(Pokemon pokemon, double damage){

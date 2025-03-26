@@ -8,7 +8,7 @@ public class RockTomb extends PhysicalMove{
     }
     @Override
     protected String describe() {
-        return "Понижает скорость вражеского покемона";
+        return "Lowers the speed of the enemy Pokemon";
     }
     @Override
     protected void applyOppEffects(Pokemon p){

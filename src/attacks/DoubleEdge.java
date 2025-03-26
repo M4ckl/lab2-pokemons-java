@@ -8,7 +8,7 @@ public class DoubleEdge extends PhysicalMove {
     }
     @Override
     protected String describe() {
-        return "Получает треть нанесеного урона при отдаче";
+        return "Takes a third of the damage done when recoiling";
     }
     @Override
     protected void applyOppDamage(Pokemon pokemon, double v) {

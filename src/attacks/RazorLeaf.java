@@ -8,7 +8,7 @@ public class RazorLeaf extends PhysicalMove {
     }
     @Override
     protected String describe() {
-        return "Получает повышенный шанс критического удара";
+        return "Gets an increased chance of a critical hit";
     }
     @Override
     protected void applySelfEffects(Pokemon p){

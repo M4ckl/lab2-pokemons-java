@@ -8,7 +8,7 @@ public class Venoshock extends SpecialMove {
     }
     @Override
     protected String describe() {
-        return "Наносит двойной урон отравленому покемону";
+        return "Deals double damage to poisoned Pokemon";
     }
     @Override
     protected void applyOppDamage(Pokemon pokemon, double damage){

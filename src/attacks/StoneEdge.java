@@ -8,7 +8,7 @@ public class StoneEdge extends PhysicalMove{
     }
     @Override
     protected String describe(){
-        return "Повышает шанс критического удара.";
+        return "Increases the chance of a critical hit.";
     }
     @Override
     protected void applySelfEffects(Pokemon pokemon){

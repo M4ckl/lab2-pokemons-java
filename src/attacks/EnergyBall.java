@@ -8,7 +8,7 @@ public class EnergyBall extends SpecialMove {
     }
     @Override
     protected String describe() {
-        return "Понижает защиту вражеского врага";
+        return "Lowers the enemy's defense";
     }
     @Override
     protected void applyOppEffects(Pokemon pokemon){

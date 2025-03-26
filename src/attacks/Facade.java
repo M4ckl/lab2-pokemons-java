@@ -8,7 +8,7 @@ public class Facade extends PhysicalMove {
     }
     @Override
     protected String describe() {
-        return "использует Facade";
+        return "uses Facade";
     }
     @Override
     protected void applyOppDamage(Pokemon pokemon, double damage) {

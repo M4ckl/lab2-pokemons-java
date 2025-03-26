@@ -8,7 +8,7 @@ public class Bulldoze extends PhysicalMove {
     }
     @Override
     protected String describe() {
-        return "Снижает скорость вражеского покемона";
+        return "Reduces the speed of the enemy Pokemon";
     }
     @Override
     protected void applyOppEffects(Pokemon pokemon){

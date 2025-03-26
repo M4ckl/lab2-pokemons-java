@@ -8,7 +8,7 @@ public class AcidSpray extends SpecialMove {
     }
     @Override
     protected String describe() {
-        return "Снижает специальную защиту цели";
+        return "Reduces the target's special protection";
     }
     @Override
     protected void applyOppEffects(Pokemon pokemon){
