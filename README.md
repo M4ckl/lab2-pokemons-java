@@ -31,3 +31,9 @@ Information about Pokémon, evolutionary chains, and attacks can be found on the
 - http://pokemondb.net
 
 - http://veekun.com/dex/pokemon
+
+CONSOLE:
+
+<img width="483" alt="Zrzut ekranu 2025-03-26 o 09 44 31" src="https://github.com/user-attachments/assets/94b2fa75-01b3-4407-b101-8d737e224f34" />
+<img width="495" alt="Zrzut ekranu 2025-03-26 o 09 44 57" src="https://github.com/user-attachments/assets/3e9dac64-5f13-4b50-8617-18c24f641089" />
+<img width="489" alt="Zrzut ekranu 2025-03-26 o 09 45 12" src="https://github.com/user-attachments/assets/acb78e4f-17c5-4089-8478-f0f81a318912" />
