@@ -1,19 +1,20 @@
 # lab2-pokemons-java
 
 <strong>Task:</strong>
+
 Based on the base class Pokemon, write your own classes for the specified types of Pokémon. Each type of Pokémon should have one or two types and the following standard base stats:
 
-Health Points (HP)
+- Health Points (HP)
 
-Attack
+- Attack
 
-Defense
+- Defense
 
-Special Attack
+- Special Attack
 
-Special Defense
+- Special Defense
 
-Speed
+- Speed
 
 The Pokémon classes should inherit according to the evolutionary chain of Pokémon. Based on the base classes PhysicalMove, SpecialMove, and StatusMove, implement your own classes for the specified types of attacks. All created classes without descendants should be implemented in such a way that inheritance from them is not allowed.
 
